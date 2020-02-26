@@ -16,4 +16,4 @@ Sorti is a small JS Utils library for sorting.
     })
     
     const options = {field: 'age', asc: false}
-    let reverseSortedArray = mergeSort(unsortedArray, { asc: false })
+    let reverseSortedArray = mergeSort(objectsArray, options)
