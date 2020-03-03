@@ -17,3 +17,10 @@ Sorti is a small JS Utils library for sorting.
     
     const options = {field: 'age', asc: false}
     let reverseSortedArray = mergeSort(objectsArray, options)
+# Link
+
+[NPM - Sorti](https://www.npmjs.com/package/sorti)
+
+[Git - Link](https://github.com/nadavgld/sortJS)
+
+## end

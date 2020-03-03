@@ -6,10 +6,24 @@
   "scripts": {
     "test": "jest"
   },
-  "keywords": ["sort", "algorithm", "bubble", "merge","selection"],
+  "homepage": "https://github.com/nadavgld/sortJS",
+  "keywords": [
+    "sort",
+    "algorithm",
+    "bubble",
+    "merge",
+    "selection"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "jest": "^25.1.0"
-  }
+  },
+  "contributors": [
+    {
+      "name": "Nadav Grinberg",
+      "email": "nadavgld@gmail.com",
+      "url": "https://github.com/nadavgld/"
+    }
+  ]
 }
